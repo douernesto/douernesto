@@ -1,10 +1,10 @@
 ## 🧰 Technologies I Work With
 
-<table>
+<table width="100%">
   <tr>
-    <th>☁️ Cloud Platforms</th>
-    <th>⚙️ DevOps & Infrastructure as Code</th>
-    <th>🧪 Programming & Scripting</th>
+    <th width="33%">☁️ Cloud Platforms</th>
+    <th width="33%">⚙️ DevOps & Infrastructure as Code</th>
+    <th width="33%">🧪 Programming & Scripting</th>
   </tr>
   <tr>
     <td valign="top">
@@ -30,9 +30,9 @@
     </td>
   </tr>
   <tr>
-    <th>📈 Monitoring & Observability</th>
-    <th>🖥️ Operating Systems & Tooling</th>
-    <th></th>
+    <th width="33%">📈 Monitoring & Observability</th>
+    <th width="33%">🖥️ Operating Systems & Tooling</th>
+    <th width="33%"></th>
   </tr>
   <tr>
     <td valign="top">
